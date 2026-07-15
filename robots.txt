@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-boty2v.buyflowers.com.sg/sitemap.xml
